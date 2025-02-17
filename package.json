@@ -2,12 +2,15 @@
   "name": "creative-exercise",
   "description": "cs4241-c25-classroom-creative-exercise-creative-exercise created by GitHub Classroom ",
   "scripts": {
-    "build": "vite build --watch",
+    "build": "vite build",
     "start": "node server.cjs"
   },
   "devDependencies": {
     "express": "^4.21.2",
     "vite": "^6.1.0",
     "vite-plugin-gltf": "^4.0.0"
+  },
+  "dependencies": {
+    "three": "^0.173.0"
   }
 }
