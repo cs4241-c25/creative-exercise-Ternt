@@ -1,6 +1,6 @@
 # Creative Exercise Ternt
-- project link: [https://glitch.com/~creative-exericse-ternt](https://creative-exercise-ternt.vercel.app/)
-- A made a little web app I made with the Web Audio API and ThreeJS. 
-The program allows you to upload a music file and play it by holding 
+Project Link: https://creative-exercise-ternt.vercel.app/
+- A little web app I made with the Web Audio API and ThreeJS. 
+The program allows you to upload an audio file and play it by holding 
 Space. Pressing Space would also trigger Maxwell the Cat's animation
-and make him jam and bounce to the music.
+and make him jam and bounce to the sound! musical or not.
