@@ -35,6 +35,8 @@ window.onload = () => {
 
       track.connect(gainNode);
       gainNode.connect(audioCtx.destination);
+
+      document.querySelector('button').blur();
     }
   });
 
