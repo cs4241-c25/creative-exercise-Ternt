@@ -5,12 +5,8 @@
     "build": "vite build --watch",
     "start": "node server.cjs"
   },
-  "dependencies": {
-    "express": "^4.21.2",
-    "three": "^0.173.0",
-    "three-outlinepass": "^1.2.0"
-  },
   "devDependencies": {
+    "express": "^4.21.2",
     "vite": "^6.1.0",
     "vite-plugin-gltf": "^4.0.0"
   }
